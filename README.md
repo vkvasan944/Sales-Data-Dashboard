@@ -39,7 +39,7 @@ Q5. When is the peak period of the day?
 Q6. What is the revenue contribution between weekdays and weekends?
 
 # Analysis
-The analysis was done using Microsoft Power BI.
+The analysis was done using Microsoft Excel.
 
 ## Steps
 Data Import: I imported and converted the raw data which was in CSV file format into Microsoft Excel.
@@ -51,6 +51,9 @@ Data Transformation: I transformed the data to make it suitable for analysis. Th
 Data Visualization: Data Visualization: I visualized the analyzed data using the charts and graphs available on Microsoft Power BI. I also created a dashboard using the insights from the analyzed data.
 
 ## Insights
+
+@
+
 Total Orders - 186K
 
 Number of Products - 19
@@ -93,17 +96,6 @@ The top performing product by revenue is Macbook Pro Laptop, which generated tot
 
 The most bought product is the AAA Batteries (4-pack) which sold about 31k quantities, while the product that sold the least number of units is LG Dryer with a total of 646 quantities sold.
 
-## What is the Order performance per City?
-
-@
-
-The top performing City is San Francisco with a total of 45k orders which is 24% of the total orders received, while the least performing City is Austin with a total of 10k orders which is 5.33% of the total orders received.
-
-## When is the peak period of the day?
-
-@
-
-Revenue peak at 7pm everyday with a total of $2.4M revenue generated and is lowest at 3am everyday.
 
 # Visualization
 
@@ -146,37 +138,14 @@ Given the high performance of the Macbook Pro Laptop, consider expanding product
 ### Inventory Management:
 Monitor and manage inventory for AAA Batteries (4-pack) and LG Dryer to ensure that stock levels match demand.
 
-City-Specific Initiatives:
+### City-Specific Initiatives:
 Explore opportunities to increase sales in cities like Austin through localized marketing efforts and tailored promotions.
 
-Peak Time Promotions:
+### Peak Time Promotions:
 Leverage the 7 pm peak period by running special promotions or flash sales during this time to maximize revenue.
 
-Weekend Marketing:
+### Weekend Marketing:
 Continue to focus on weekend sales, potentially with weekend-specific promotions, while maintaining a strong weekday presence.
 
-About
-Meriskill Internship project to Analyze sales data, identify trends, top-selling products, and revenue metrics for business decision-making.
-
-Topics
-excel powerbi-visuals powerbidashboard
-Resources
- Readme
- Activity
-Stars
- 2 stars
-Watchers
- 2 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Priva
-
+### About
+This project to Analyze sales data, identify trends, top-selling products, and revenue metrics for business decision-making.

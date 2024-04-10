@@ -55,7 +55,6 @@ Data Visualization: Data Visualization: I visualized the analyzed data using the
 ![1 Sales Dashboard - Copy](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/87ea00e5-cce5-41df-9d96-30593abcebb1)
 
 
-
 Total Orders - 186K
 
 Number of Products - 19
@@ -70,38 +69,37 @@ Average revenue/order - $185.5
 
 ### Sales per Quarter
 
-@
+![2 Sales Dashboard](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/79cad341-1612-4ad6-843b-aa55b221c72b)
+
 
 Qtr 4 recorded the highest revenue with a total of $11.5M which is 33.49% of the total revenue, while Q1 with a total of $6.8M which is 19.81% of the total revenue recorded the lowest revenue generated.
 
 ### Sales per Month
 
-@
+![3 Sales Dashboard](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/d7d6649b-dc12-448a-8277-0e65008c18a2)
+
 
 The most productive month is December with a total revenue of $4.61M which is 13.38% of the total revenue generated. While January has the lowest performance with a total of $1.82M revenue generated which is 5.28% of the total revenue generated. Sales are low at the beginning of the year and highest at the end of the year.
 
-### Sales per Day of Week
-
-@
-
-Tuesdays accounted for the highest revenue generated with a total of $5M which is about 14.75% of the total revenue generated. While the day that recorded the least revenue is Thursday with a total of 4.8M which is 14% of the total revenue generated.
-
 ## What is the product performance by revenue?
 
-@
+![5 Sales Dashboard](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/39fe70c9-83fd-4cff-a50f-ee8ca27ecdfe)
+
 
 The top performing product by revenue is Macbook Pro Laptop, which generated total revenue of $8.04M, while the least performing product is AAA Batteries (4-pack) which generated a total revenue of $900k
 
 ## What are the Most Selling Products(Quantity)?
 
-@
+![4 Sales Dashboard](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/2e134303-0a22-46cd-892a-f2fadaf19ab6)
+
 
 The most bought product is the AAA Batteries (4-pack) which sold about 31k quantities, while the product that sold the least number of units is LG Dryer with a total of 646 quantities sold.
 
 
 # Visualization
 
-@
+![Sales Dashboard](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/1638ea2b-a3fe-4063-8926-00218d5e18ac)
+
 
 ## Conclusion
 

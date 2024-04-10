@@ -52,7 +52,9 @@ Data Visualization: Data Visualization: I visualized the analyzed data using the
 
 ## Insights
 
-@
+![1 Sales Dashboard - Copy](https://github.com/vkvasan944/Sales-Data-Dashboard/assets/135627385/87ea00e5-cce5-41df-9d96-30593abcebb1)
+
+
 
 Total Orders - 186K
 
